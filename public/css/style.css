@@ -1,0 +1,34 @@
+.bg-light{
+    background-color: #f5f5f5!important;
+    height: 110px;
+    font-size: 18px;
+    margin-bottom: 70px;
+}
+
+.bg-light img{
+    width: 300px;
+    height: 100%;
+
+}
+
+.navbar-expand-lg .navbar-nav{
+    margin-left: 100px;
+}
+
+
+.navbar-light .navbar-nav .nav-link { color:rgba(6, 55, 123, 0.51);
+    margin-left: 15px;}
+.navbar-light .navbar-nav .nav-link:hover{rgb(6, 55, 123);}
+.navbar-light .navbar-text{
+    margin-right: 40px;
+    background-color: #114080;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #fff;
+}
+.navbar-light .navbar-text:hover{font-weight: bold;}
+
+.table td, .table th{font-size: 21px;}
+
+h1{margin-bottom: 50px; text-align: center;color: #06377b;}
+
